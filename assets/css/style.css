@@ -87,11 +87,12 @@ footer a {
 
 a:link {
     text-decoration: none;
+    color: #1d1445;
 }
 
 a:visited {
     text-decoration: none;
-    color: #4e3798;
+    color: #1d1445;
 }
 
 .card {
